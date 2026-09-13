@@ -1,0 +1,25 @@
+{
+ "created": "2026-09-13",
+ "line_count": 14,
+ "lines": [
+  "I ask the sky vaguely through the classroom window.",
+  "\"Why am I alive?\" I don't know.",
+  "I'm forced to learn only things I never wanted to know.",
+  "When I realized it, I'd even lost my own words.",
+  "The ideal me I wrote in the textbook margins.",
+  "I'm not just obeying the adults.",
+  "There is a freedom like that of a soaring bird.",
+  "They showed us dreams but gave us no power to make them come true.",
+  "Not giving us that, it only makes things painful.",
+  "Even the length of a skirt is set for us.",
+  "Unable to do what I want, where am I?",
+  "A voice inside my heart says, \"I'm here.\"",
+  "Even though the sky is beautiful.",
+  ""
+ ],
+ "lrclib_id": 36481346,
+ "pipeline": 6,
+ "schema": 1,
+ "source_hash": "1a4391c72163df7e766e1677c114a09c710188e7c4140f0ad9186e18aa4b7d52",
+ "translator": "groq-openai/gpt-oss-120b"
+}
