@@ -1,0 +1,13 @@
+{
+ "created": "2026-09-24",
+ "line_count": 2,
+ "lines": [
+  "This is only the beginning",
+  "This is only the beginning"
+ ],
+ "lrclib_id": 23907641,
+ "pipeline": 6,
+ "schema": 1,
+ "source_hash": "faf3fc8ea71cdf1191ad5f7e60e7cf323b6a293100b901a0bb5fff020aa4313e",
+ "translator": "nvidia-z-ai/glm-5.3-flash"
+}

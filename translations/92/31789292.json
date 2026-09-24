@@ -1,0 +1,32 @@
+{
+ "created": "2026-09-24",
+ "line_count": 21,
+ "lines": [
+  "The rain, after midnight,",
+  "will turn to snow",
+  "Silent night, holy night",
+  "You're surely not coming",
+  "A Christmas Eve all alone",
+  "Silent night, holy night",
+  "Deep in my heart, a hidden longing",
+  "that seems it will never come true",
+  "If ever, tonight—",
+  "I felt I could finally say it",
+  "Silent night, holy night",
+  "",
+  "Still lingering, my longing for you",
+  "keeps falling into the night",
+  "On the street corner, a Christmas tree",
+  "a silver glitter",
+  "Silent night, holy night",
+  "The rain, after midnight,",
+  "will turn to snow",
+  "Silent night, holy night",
+  ""
+ ],
+ "lrclib_id": 31789292,
+ "pipeline": 6,
+ "schema": 1,
+ "source_hash": "15a745b9e8312e46077ddc218ee0c01187b4b3a272be9735e53999ef81ef2f6a",
+ "translator": "nvidia-z-ai/glm-5.3-flash"
+}

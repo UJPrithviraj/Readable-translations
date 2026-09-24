@@ -1,0 +1,25 @@
+{
+ "created": "2026-09-24",
+ "line_count": 14,
+ "lines": [
+  "When something sad happens, I open the leather cover",
+  "In the graduation photo, that person has gentle eyes",
+  "When I saw you in town, I couldn't say a thing",
+  "Because the face from the graduation photo was still there, unchanged",
+  "Swept along by the crowd, I keep changing",
+  "And sometimes you scold me from far away",
+  "Under the swaying willow, as if speaking to me",
+  "Even the road I used to walk, now I only see it from the train",
+  "Don't forget the way we lived back then",
+  "You are my youth itself",
+  "Swept along by the crowd, I keep changing",
+  "And sometimes you scold me from far away",
+  "You are my youth itself",
+  ""
+ ],
+ "lrclib_id": 22670113,
+ "pipeline": 6,
+ "schema": 1,
+ "source_hash": "26b3c13e072c94d8286e15d4296281b29f66a7484c919ea7e005437a9a91e3db",
+ "translator": "nvidia-z-ai/glm-5.3-flash"
+}

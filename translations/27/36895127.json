@@ -1,0 +1,13 @@
+{
+ "created": "2026-09-24",
+ "line_count": 2,
+ "lines": [
+  "Here we go",
+  "Invincible"
+ ],
+ "lrclib_id": 36895127,
+ "pipeline": 6,
+ "schema": 1,
+ "source_hash": "41b4509ef835742fa20308f47d369094ae13c374680848b3ebeb96ec39834527",
+ "translator": "nvidia-z-ai/glm-5.3-flash"
+}
